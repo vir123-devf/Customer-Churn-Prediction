@@ -43,13 +43,7 @@ The dataset contains customer information such as:
    python -m venv venv
    source venv/bin/activate      # On Windows: venv\Scripts\activate
    ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the notebook**
+3. **Run the notebook**
    ```bash
    jupyter notebook Customer_Churn_Prediction.ipynb
    ```
