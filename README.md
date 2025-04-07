@@ -29,7 +29,6 @@ The dataset contains customer information such as:
 - Tenure, monthly charges, total charges
 - Churn status (target variable)
 
-> *You can update this section with your dataset source if it’s publicly available.*
 
 ## ⚙️ Installation & Setup
 
